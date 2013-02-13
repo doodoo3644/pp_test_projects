@@ -1,4 +1,5 @@
-project1
-========
+pp_test_projects
+================
 
-test project 1
+Prapas' test projects contain multiple tool projects for used by ose personnel.
+
