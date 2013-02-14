@@ -1,3 +1,0 @@
-this is just a file 1
-second
-3 line for the forth commit
