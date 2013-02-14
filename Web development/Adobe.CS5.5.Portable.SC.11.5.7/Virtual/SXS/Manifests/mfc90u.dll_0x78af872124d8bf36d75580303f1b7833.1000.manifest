@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <dependency optional="yes">
+    <dependentAssembly>
+      <assemblyIdentity type="win32" name="Microsoft.VC90.MFCLOC@9.0.30729.4137" version="9.0.30729.4137" processorArchitecture="x86" />
+    </dependentAssembly>
+  </dependency>
+</assembly>

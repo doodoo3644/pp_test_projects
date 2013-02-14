@@ -1,0 +1,7 @@
+JS Error: 
+	dw.getDocumentDOM() has no properties
+	filename: 
+	lineno: 0
+While executing DW_WordWrap checked in toolbars.xml, the following JavaScript error(s) occurred:
+
+TypeError: dw.getDocumentDOM() has no properties

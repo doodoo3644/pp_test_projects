@@ -1,0 +1,371 @@
+2011-04-24T16:38:38: >>> Adobe Updater Log Begin >>>
+2011-04-24T16:38:38: Application Version: 2.0.0.15
+2011-04-24T16:38:38: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T16:38:38: cmdline option: -logLevel = 2
+2011-04-24T16:38:38: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T16:38:38: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2011-04-24T16:38:38: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2011-04-24T16:38:38: UpdaterNotifications : Adding scheduled task for csupdater.
+2011-04-24T16:38:39: UpdaterNotifications : Successfully returning from  << AddUpdaterSchedulerTask >> call.
+2011-04-24T16:38:39: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T16:40:10: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T16:41:39: >>> Adobe Updater Log Begin >>>
+2011-04-24T16:41:39: Application Version: 2.0.0.15
+2011-04-24T16:41:39: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T16:41:39: cmdline option: -logLevel = 2
+2011-04-24T16:41:39: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T16:41:39: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T16:42:04: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:00:15: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:00:15: Application Version: 2.0.0.15
+2011-04-24T17:00:15: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:00:15: cmdline option: -logLevel = 2
+2011-04-24T17:00:15: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:00:15: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:00:24: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:02:29: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:02:29: Application Version: 2.0.0.15
+2011-04-24T17:02:29: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:02:29: cmdline option: -logLevel = 2
+2011-04-24T17:02:29: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:02:29: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:02:38: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:03:25: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:03:25: Application Version: 2.0.0.15
+2011-04-24T17:03:25: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:03:25: cmdline option: -logLevel = 2
+2011-04-24T17:03:25: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:03:25: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:03:35: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:05:46: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:05:46: Application Version: 2.0.0.15
+2011-04-24T17:05:46: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:05:46: cmdline option: -logLevel = 2
+2011-04-24T17:05:46: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:05:46: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:05:50: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:06:36: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:06:36: Application Version: 2.0.0.15
+2011-04-24T17:06:36: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:06:36: cmdline option: -logLevel = 2
+2011-04-24T17:06:36: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:06:36: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:06:38: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:07:16: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:07:16: Application Version: 2.0.0.15
+2011-04-24T17:07:16: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:07:16: cmdline option: -logLevel = 2
+2011-04-24T17:07:16: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:07:16: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:07:39: <<< Adobe Updater Log End <<<
+
+
+2011-04-24T17:07:47: >>> Adobe Updater Log Begin >>>
+2011-04-24T17:07:47: Application Version: 2.0.0.15
+2011-04-24T17:07:47: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2011-04-24T17:07:47: cmdline option: -logLevel = 2
+2011-04-24T17:07:47: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:07:47: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2011-04-24T17:07:49: <<< Adobe Updater Log End <<<
+
+
+2012-01-09T21:00:33: >>> Adobe Updater Log Begin >>>
+2012-01-09T21:00:33: Application Version: 2.0.0.15
+2012-01-09T21:00:33: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-09T21:00:33: cmdline option: -logLevel = 2
+2012-01-09T21:00:33: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-09T21:00:33: is  task present thread returns  false.
+2012-01-09T21:00:33: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-09T21:00:33: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-09T21:00:33: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-09T21:00:33: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-09T21:00:37: <<< Adobe Updater Log End <<<
+
+
+2012-01-09T21:10:07: >>> Adobe Updater Log Begin >>>
+2012-01-09T21:10:07: Application Version: 2.0.0.15
+2012-01-09T21:10:07: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-09T21:10:07: cmdline option: -logLevel = 2
+2012-01-09T21:10:07: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-09T21:10:07: is  task present thread returns  false.
+2012-01-09T21:10:07: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-09T21:10:07: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-09T21:10:07: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-09T21:10:07: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-09T21:12:08: <<< Adobe Updater Log End <<<
+
+
+2012-01-09T21:29:49: >>> Adobe Updater Log Begin >>>
+2012-01-09T21:29:49: Application Version: 2.0.0.15
+2012-01-09T21:29:49: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-09T21:29:49: cmdline option: -logLevel = 2
+2012-01-09T21:29:49: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-09T21:29:49: is  task present thread returns  false.
+2012-01-09T21:29:49: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-09T21:29:49: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-09T21:29:49: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-09T21:29:49: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-13T19:41:10: <<< Adobe Updater Log End <<<
+
+
+2012-01-14T00:09:22: >>> Adobe Updater Log Begin >>>
+2012-01-14T00:09:22: Application Version: 2.0.0.15
+2012-01-14T00:09:22: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-14T00:09:22: cmdline option: -logLevel = 2
+2012-01-14T00:09:22: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-14T00:09:22: is  task present thread returns  false.
+2012-01-14T00:09:22: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-14T00:09:22: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-14T00:09:22: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-14T00:09:22: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-17T17:36:47: <<< Adobe Updater Log End <<<
+
+
+2012-01-19T22:45:22: >>> Adobe Updater Log Begin >>>
+2012-01-19T22:45:22: Application Version: 2.0.0.15
+2012-01-19T22:45:22: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-19T22:45:22: cmdline option: -logLevel = 2
+2012-01-19T22:45:22: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-19T22:45:22: is  task present thread returns  false.
+2012-01-19T22:45:22: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-19T22:45:22: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-19T22:45:22: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-19T22:45:22: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-20T15:42:56: <<< Adobe Updater Log End <<<
+
+
+2012-01-20T23:36:45: >>> Adobe Updater Log Begin >>>
+2012-01-20T23:36:45: Application Version: 2.0.0.15
+2012-01-20T23:36:45: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-20T23:36:45: cmdline option: -logLevel = 2
+2012-01-20T23:36:45: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-20T23:36:45: is  task present thread returns  false.
+2012-01-20T23:36:45: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-20T23:36:45: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-20T23:36:45: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-20T23:36:45: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-21T00:05:24: <<< Adobe Updater Log End <<<
+
+
+2012-01-23T17:48:30: >>> Adobe Updater Log Begin >>>
+2012-01-23T17:48:30: Application Version: 2.0.0.15
+2012-01-23T17:48:30: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-23T17:48:30: cmdline option: -logLevel = 2
+2012-01-23T17:48:30: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-23T17:48:30: is  task present thread returns  false.
+2012-01-23T17:48:30: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-23T17:48:30: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-23T17:48:30: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-23T17:48:30: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-23T22:24:09: >>> Adobe Updater Log Begin >>>
+2012-01-23T22:24:09: Application Version: 2.0.0.15
+2012-01-23T22:24:09: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-23T22:24:09: cmdline option: -logLevel = 2
+2012-01-23T22:24:09: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-23T22:24:09: is  task present thread returns  false.
+2012-01-23T22:24:09: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-23T22:24:09: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-23T22:24:09: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-23T22:24:09: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-24T16:39:01: <<< Adobe Updater Log End <<<
+
+
+2012-01-24T20:33:03: >>> Adobe Updater Log Begin >>>
+2012-01-24T20:33:03: Application Version: 2.0.0.15
+2012-01-24T20:33:03: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-01-24T20:33:03: cmdline option: -logLevel = 2
+2012-01-24T20:33:03: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-01-24T20:33:03: is  task present thread returns  false.
+2012-01-24T20:33:03: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-01-24T20:33:03: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-01-24T20:33:03: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-01-24T20:33:03: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-01-31T19:00:09: <<< Adobe Updater Log End <<<
+
+
+2012-02-01T19:29:45: >>> Adobe Updater Log Begin >>>
+2012-02-01T19:29:45: Application Version: 2.0.0.15
+2012-02-01T19:29:45: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-01T19:29:45: cmdline option: -logLevel = 2
+2012-02-01T19:29:45: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-01T19:29:45: is  task present thread returns  false.
+2012-02-01T19:29:45: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-01T19:29:45: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-01T19:29:45: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-01T19:29:45: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-07T15:42:17: <<< Adobe Updater Log End <<<
+
+
+2012-02-13T21:32:00: >>> Adobe Updater Log Begin >>>
+2012-02-13T21:32:00: Application Version: 2.0.0.15
+2012-02-13T21:32:00: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-13T21:32:00: cmdline option: -logLevel = 2
+2012-02-13T21:32:00: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-13T21:32:00: is  task present thread returns  false.
+2012-02-13T21:32:00: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-13T21:32:00: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-13T21:32:00: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-13T21:32:00: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-14T21:02:37: <<< Adobe Updater Log End <<<
+
+
+2012-02-14T21:56:34: >>> Adobe Updater Log Begin >>>
+2012-02-14T21:56:34: Application Version: 2.0.0.15
+2012-02-14T21:56:34: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-14T21:56:34: cmdline option: -logLevel = 2
+2012-02-14T21:56:34: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-14T21:56:34: is  task present thread returns  false.
+2012-02-14T21:56:34: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-14T21:56:34: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-14T21:56:34: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-14T21:56:34: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T22:36:26: <<< Adobe Updater Log End <<<
+
+
+2012-02-16T22:36:33: >>> Adobe Updater Log Begin >>>
+2012-02-16T22:36:33: Application Version: 2.0.0.15
+2012-02-16T22:36:33: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-16T22:36:33: cmdline option: -logLevel = 2
+2012-02-16T22:36:33: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T22:36:33: is  task present thread returns  false.
+2012-02-16T22:36:33: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-16T22:36:33: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-16T22:36:33: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-16T22:36:33: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T23:24:16: >>> Adobe Updater Log Begin >>>
+2012-02-16T23:24:16: Application Version: 2.0.0.15
+2012-02-16T23:24:16: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-16T23:24:16: cmdline option: -logLevel = 2
+2012-02-16T23:24:16: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T23:24:16: is  task present thread returns  false.
+2012-02-16T23:24:16: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-16T23:24:16: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-16T23:24:16: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-16T23:24:16: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T23:31:16: >>> Adobe Updater Log Begin >>>
+2012-02-16T23:31:16: Application Version: 2.0.0.15
+2012-02-16T23:31:16: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-16T23:31:16: cmdline option: -logLevel = 2
+2012-02-16T23:31:16: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-16T23:31:16: is  task present thread returns  false.
+2012-02-16T23:31:16: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-16T23:31:16: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-16T23:31:16: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-16T23:31:16: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-17T17:33:45: <<< Adobe Updater Log End <<<
+
+
+2012-02-17T17:33:53: >>> Adobe Updater Log Begin >>>
+2012-02-17T17:33:53: Application Version: 2.0.0.15
+2012-02-17T17:33:53: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-02-17T17:33:53: cmdline option: -logLevel = 2
+2012-02-17T17:33:53: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-02-17T17:33:53: is  task present thread returns  false.
+2012-02-17T17:33:53: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-02-17T17:33:53: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-02-17T17:33:53: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-02-17T17:33:53: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-02-17T21:51:34: <<< Adobe Updater Log End <<<
+
+
+2012-03-02T17:49:31: >>> Adobe Updater Log Begin >>>
+2012-03-02T17:49:31: Application Version: 2.0.0.15
+2012-03-02T17:49:31: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-02T17:49:31: cmdline option: -logLevel = 2
+2012-03-02T17:49:31: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-02T17:49:31: is  task present thread returns  false.
+2012-03-02T17:49:31: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-02T17:49:31: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-02T17:49:31: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-02T17:49:31: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-02T20:56:26: <<< Adobe Updater Log End <<<
+
+
+2012-03-10T11:50:11: >>> Adobe Updater Log Begin >>>
+2012-03-10T11:50:11: Application Version: 2.0.0.15
+2012-03-10T11:50:11: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-10T11:50:11: cmdline option: -logLevel = 2
+2012-03-10T11:50:11: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-10T11:50:11: is  task present thread returns  false.
+2012-03-10T11:50:11: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-10T11:50:11: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-10T11:50:11: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-10T11:50:11: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-12T04:21:27: <<< Adobe Updater Log End <<<
+
+
+2012-03-12T20:01:27: >>> Adobe Updater Log Begin >>>
+2012-03-12T20:01:27: Application Version: 2.0.0.15
+2012-03-12T20:01:27: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-12T20:01:27: cmdline option: -logLevel = 2
+2012-03-12T20:01:27: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-12T20:01:27: is  task present thread returns  false.
+2012-03-12T20:01:27: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-12T20:01:27: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-12T20:01:27: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-12T20:01:27: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-13T00:13:50: <<< Adobe Updater Log End <<<
+
+
+2012-03-13T01:08:06: >>> Adobe Updater Log Begin >>>
+2012-03-13T01:08:06: Application Version: 2.0.0.15
+2012-03-13T01:08:06: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-13T01:08:06: cmdline option: -logLevel = 2
+2012-03-13T01:08:06: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-13T01:08:06: is  task present thread returns  false.
+2012-03-13T01:08:06: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-13T01:08:06: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-13T01:08:06: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-13T01:08:06: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-13T01:09:40: <<< Adobe Updater Log End <<<
+
+
+2012-03-14T20:02:46: >>> Adobe Updater Log Begin >>>
+2012-03-14T20:02:46: Application Version: 2.0.0.15
+2012-03-14T20:02:46: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-14T20:02:46: cmdline option: -logLevel = 2
+2012-03-14T20:02:46: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-14T20:02:46: is  task present thread returns  false.
+2012-03-14T20:02:46: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-14T20:02:46: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-14T20:02:46: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-14T20:02:46: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-14T22:54:29: <<< Adobe Updater Log End <<<
+
+
+2012-03-26T22:52:46: >>> Adobe Updater Log Begin >>>
+2012-03-26T22:52:46: Application Version: 2.0.0.15
+2012-03-26T22:52:46: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-03-26T22:52:46: cmdline option: -logLevel = 2
+2012-03-26T22:52:46: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-03-26T22:52:46: is  task present thread returns  false.
+2012-03-26T22:52:46: UpdaterNotifications : Updater task is not present. Creating new task for daily scheduled checks
+2012-03-26T22:52:46: UpdaterNotifications : Stepped into << AddUpdaterSchedulerTask >> call.
+2012-03-26T22:52:46: UpdaterNotifications : Warning - The adobe updater scheduled task has been manually deleted by the user. Not adding it again.
+2012-03-26T22:52:46: UpdaterNotifications : Successfully returning from << UpdaterNotificationsGetLEIDList >> call.
+2012-03-28T21:12:21: <<< Adobe Updater Log End <<<
+
+
+2012-07-02T23:31:28: >>> Adobe Updater Log Begin >>>
+2012-07-02T23:31:28: Application Version: 2.0.0.15
+2012-07-02T23:31:28: cmdline option: -logFile = C:\Documents and Settings\Birungueta\Configurações locais\Dados de aplicativos\Adobe\AAMUpdater\1.0\aamun.log
+2012-07-02T23:31:28: cmdline option: -logLevel = 2
+2012-07-02T23:31:28: UpdaterNotifications : Stepped into << UpdaterNotificationsGetLEIDList >> call.
+2012-07-02T23:31:29: UpdaterNotifications : Error in detecting the task. Quitting..
+2012-07-02T23:36:31: <<< Adobe Updater Log End <<<
+
+

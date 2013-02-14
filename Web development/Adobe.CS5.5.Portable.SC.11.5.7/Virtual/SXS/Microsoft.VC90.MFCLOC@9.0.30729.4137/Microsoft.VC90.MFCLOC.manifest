@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <noInheritable>
+  </noInheritable>
+  <assemblyIdentity type="win32" name="Microsoft.VC90.MFCLOC@9.0.30729.4137" version="9.0.30729.4137" processorArchitecture="x86">
+  </assemblyIdentity>
+  <file name="MFC90CHS.DLL" hashalg="SHA1" hash="7ef989bb82eae065f6f417bc3bdfbef14c646219">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>5OHANfqGJTF/INUdGFdxDj6efYg=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90CHT.DLL" hashalg="SHA1" hash="d394d7f7baa449aacbf3f90c6c5916dbdbde10b2">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>bYLRy5KVi02iDw7o/zwBP2WimPs=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90DEU.DLL" hashalg="SHA1" hash="ea04ae83236a964f5c4af052d4ee6c240d16feef">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>hgLUWN5f6MJOylvYHXymG1olcgQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90ENU.DLL" hashalg="SHA1" hash="094c4d736205d44b0db4e05394146076039d0846">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>NnWZ5MwbF1VkPrZzsTC9jSf0s08=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90ESN.DLL" hashalg="SHA1" hash="ceda454acc21e95e320319d2d6c8db2ee36ff33a">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>7PA/LHCM9ETONhRXalxt7iyW8NI=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90ESP.DLL" hashalg="SHA1" hash="ceda454acc21e95e320319d2d6c8db2ee36ff33a">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>4AK2R3WQ6fog/vQDY6wCcs8sdDs=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90FRA.DLL" hashalg="SHA1" hash="bcb47cf1ce905b912444ee644f86b04219a7328d">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>N9exPiphtDzWRemGH+MaMpyUjxU=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90ITA.DLL" hashalg="SHA1" hash="aa1c8c6b9c325c7ec5ce80b2082982f955c5d175">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>UISuisNqmgyvtYMdJhnieRgOCEQ=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90JPN.DLL" hashalg="SHA1" hash="ef029e6da05bb4a1832069e0596f0144ab461113">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>8WEw7iHtRmzUGzIhPXKqYFcXkuw=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90KOR.DLL" hashalg="SHA1" hash="5d4b2e4bf82d40882d550ea167ac79c72ecc2128">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>A8AgZjmolMxJvjsYz96oqHyYNRc=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="MFC90RUS.DLL" hashalg="SHA1" hash="63406ec2510a7e76d8c17a3806f4b1aa6b00492f">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>MXGnipcIiPg12NkGEwItLxcpngs=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+</assembly>

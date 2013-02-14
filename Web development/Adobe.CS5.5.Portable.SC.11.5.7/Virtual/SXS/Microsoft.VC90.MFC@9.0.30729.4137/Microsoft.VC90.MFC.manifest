@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <noInheritable>
+  </noInheritable>
+  <assemblyIdentity type="win32" name="Microsoft.VC90.MFC@9.0.30729.4137" version="9.0.30729.4137" processorArchitecture="x86">
+  </assemblyIdentity>
+  <file name="mfc90.dll" hashalg="SHA1" hash="0bc387442b719d6f3b0433ff392b5318c5191134">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>qg/j4iXEzKcJyzIqePu/2RCXWB8=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="mfc90u.dll" hashalg="SHA1" hash="7a8d224a27b49fe6d4d47d33edf4257202ede770">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>LHR9N22WeNmsbkrlFWMvHYG9FGw=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="mfcm90.dll" hashalg="SHA1" hash="37cdce658f9776a10c738c6c051339851058cc2e">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>Y4sXhlZvtwEzU7Aw5E9W2+c/YKA=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="mfcm90u.dll" hashalg="SHA1" hash="2418124b95e4cadbc7c4186a93a7a70f6dcedf73">
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity">
+        </dsig:Transform>
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1">
+      </dsig:DigestMethod>
+      <dsig:DigestValue>WyRYCON6hGvlxbOPBq3uqqCd2yI=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+</assembly>

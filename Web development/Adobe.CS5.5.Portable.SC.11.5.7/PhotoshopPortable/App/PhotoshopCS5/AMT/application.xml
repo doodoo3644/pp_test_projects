@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+	<Payload adobeCode="{08EF22BC-43B2-4B4E-BA12-52B18F418F38}">
+		<Data key="defaultAdobeCode">Photoshop-Installer-AdobeCode</Data>
+		<Data key="LicensingCode">Photoshop-CS5.5-Win-GM</Data>
+		<Data key="BridgeTalkCode">/adobe/bridgetalk/photoshop-55.032</Data>
+	</Payload>
+	<Other adobeCode="Photoshop-CS5.5-Win-GM">
+		<Data key="EPIC_APP">Adobe Photoshop CS5.1</Data>
+		<Data key="EPIC_APP_45">Adobe Photoshop CS5.1</Data>
+		<Data key="EPIC_APP_330">Adobe Photoshop CS5.1 Extended</Data>
+		<Data key="TrialSerialNumber">926287053123815334279360</Data>
+		<Data key="NTL_WO_SN"></Data>
+	</Other>
+	<Other adobeCode="/adobe/bridgetalk/photoshop-55.032">
+		<Data key="Specifier">photoshop-55.032</Data>
+		<Data key="ExecutableBasename">Photoshop</Data>
+		<Data key="BundleIdentifier">com.adobe.Photoshop</Data>
+		<Data key="DisplayName">Adobe Photoshop CS5.1</Data>
+		<Data key="BridgeTalkVersion">2</Data>
+		<Data key="SupportsESTK">true</Data>
+	</Other>
+</Configuration>

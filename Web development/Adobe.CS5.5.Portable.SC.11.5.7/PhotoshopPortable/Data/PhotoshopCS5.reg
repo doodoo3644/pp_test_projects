@@ -1,0 +1,326 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\9.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\9.0\AdobeViewer]
+"EULA"=dword:00000001
+"Launched"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\55.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\55.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\55.0\PluginPath]
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\AB24D9ADFD62]
+@="C3DC27E294B07062D3A5D5B8C9F40F7EDC1C9F95"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AdobeViewer]
+"EULA"=dword:00000001
+"Launched"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Annots]
+"bStampsPaletteInvisible"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Annots\cAnnots]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Annots\cAnnots\cAnnot]
+"tauthor"="Pikulthong_P"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVConversionFromPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVConversionFromPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVConversionToPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVConversionToPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral]
+"bLastExitNormal"=dword:00000001
+"bAppInitialized"=dword:00000001
+"iLastRepairTried"=dword:00003bf6
+"iReaderLaunchCount"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cDockables]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cRecentFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cRecentFiles\c1]
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,70,69,6b,75,6c,74,68,6f,6e,67,5f,70,2f,41,\
+  70,70,44,61,74,61,2f,4c,6f,63,61,6c,2f,4d,69,63,72,6f,73,6f,66,74,2f,57,69,\
+  6e,64,6f,77,73,2f,54,65,6d,70,6f,72,61,72,79,20,49,6e,74,65,72,6e,65,74,20,\
+  46,69,6c,65,73,2f,43,6f,6e,74,65,6e,74,2e,4f,75,74,6c,6f,6f,6b,2f,30,41,47,\
+  58,56,4d,58,4a,2f,39,31,31,30,20,31,30,31,30,34,5f,4e,47,4d,53,5f,43,49,52,\
+  65,66,65,72,65,6e,63,65,5f,32,20,30,31,2e,70,64,66,00
+"tDIText"="/C/Users/pikulthong_p/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/0AGXVMXJ/9110 10104_NGMS_CIReference_2 01.pdf"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cRecentFiles\c2]
+"sDI"=hex:2f,43,2f,55,73,65,72,73,2f,70,69,6b,75,6c,74,68,6f,6e,67,5f,70,2f,41,\
+  70,70,44,61,74,61,2f,4c,6f,63,61,6c,2f,4d,69,63,72,6f,73,6f,66,74,2f,57,69,\
+  6e,64,6f,77,73,2f,54,65,6d,70,6f,72,61,72,79,20,49,6e,74,65,72,6e,65,74,20,\
+  46,69,6c,65,73,2f,43,6f,6e,74,65,6e,74,2e,4f,75,74,6c,6f,6f,6b,2f,30,41,47,\
+  58,56,4d,58,4a,2f,53,63,61,6e,30,30,31,2e,50,44,46,00
+"tDIText"="/C/Users/pikulthong_p/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/0AGXVMXJ/Scan001.PDF"
+"aFS"="DOS"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cToolbars]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cToolbars\cAdvCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cToolbars\cBasicCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cToolbars\cCommenting]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVGeneral\cToolbars\cCommenting\cStamp]
+"bInternalExpanded"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\AVTracker]
+"bLoadOnStart"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab]
+"aServer"="NONE"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cDocumentCenter]
+"bAlwaysUseServer"=dword:00000000
+"bAlwaysUseServerFD"=dword:00000000
+"bDefault"=dword:00000001
+"bDefaultFD"=dword:00000001
+"tDistMethod"="UPLOAD"
+"tUI"="Acrobat.com (Recommended)"
+"tURL"="urn://ns.adobe.com/Collaboration/SharedReview/Acrobat.com"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cDocumentCenter\cSettings]
+"tcSetting"="https://api.share.acrobat.com"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cEmailDistribution]
+"bAlwaysUseServerFD"=dword:00000000
+"bDefaultFD"=dword:00000000
+"tDistMethod"="EMAIL"
+"tUI"="Manually collect responses in my email inbox"
+"tURL"="urn://ns.adobe.com/Collaboration/Forms/Email"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cEmailDistribution\cSettings]
+"tcSetting"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cInitiationWizardFirstLaunch]
+"bIsFirstLaunchER"=dword:00000001
+"bIsFirstLaunchFD"=dword:00000001
+"bIsFirstLaunchSF"=dword:00000001
+"bIsFirstLaunchSR"=dword:00000001
+"bIsFirstLaunchUF"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Collab\cServerSettings]
+"tCONFIG"=""
+"tDAVFDF"=""
+"tFSFDF"=""
+"tNONE"=""
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Language]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Language\current]
+@="AcroRd32.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Language\next]
+@="acrord32.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\NoTimeOut]
+"smailto"=hex:59,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Originals]
+"bDisplayedSplash"=dword:00000001
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1]
+"xID"=hex:a8,6e,32,4c,a8,17,f9,a6,8b,7c,2a,57,f4,3a,d0,4d
+"iTime"=dword:4f0f0bce
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef]
+"iAVDocViewBottomSplitterPos"=dword:00000000
+"iAVDocViewLeftSplitterPos"=dword:00000000
+"bAVDocViewTabsShowing"=dword:00000001
+"bAVToolBarHostView_ToolBarsShowing"=dword:00000001
+"bShowingPageGaps"=dword:00000001
+"bbringToFront"=dword:00000001
+"ioverViewMode"=dword:00000001
+"ioverViewPos"=dword:00000000
+"xpageViewBead"=hex:00,00,00,00,00,00,00,00
+"ipageViewLayoutMode"=dword:00000002
+"ipageViewMaxVisPageNum"=dword:00000000
+"ipageViewMinVisPageNum"=dword:00000000
+"ipageViewPageNum"=dword:00000000
+"bpageViewStartThread"=dword:00000000
+"ipageViewThreadIndex"=dword:ffffffff
+"ipageViewX"=dword:fffffffc
+"ipageViewY"=dword:fffffffc
+"dpageViewZoom"="1.393570"
+"ipageViewZoomType"=dword:00000002
+"xwindowFrame"=hex:27,00,00,00,32,00,00,00,81,05,00,00,cc,03,00,00
+"bwindowMaximized"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef\cBottomView]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef\cLeftView]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef\cocgStates]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef\cTopLeftView]
+"bShowingPageGaps"=dword:00000001
+"xpageViewBead"=hex:00,00,00,00,00,00,00,00
+"ipageViewLayoutMode"=dword:00000002
+"ipageViewPageNum"=dword:00000000
+"bpageViewStartThread"=dword:00000000
+"ipageViewThreadIndex"=dword:ffffffff
+"ipageViewX"=dword:fffffffc
+"ipageViewY"=dword:fffffffc
+"dpageViewZoom"="1.393570"
+"ipageViewZoomType"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c1\cViewDef\cTopLeftView\cocgStates]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2]
+"xID"=hex:5d,1c,2a,c6,a9,c9,5d,43,ad,58,47,20,22,36,c9,db
+"iTime"=dword:4f108534
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef]
+"iAVDocViewBottomSplitterPos"=dword:00000000
+"iAVDocViewLeftSplitterPos"=dword:000000c8
+"bAVDocViewTabsShowing"=dword:00000001
+"bAVToolBarHostView_ToolBarsShowing"=dword:00000001
+"bShowingPageGaps"=dword:00000001
+"bbringToFront"=dword:00000001
+"ioverViewMode"=dword:00000001
+"ioverViewPos"=dword:000000c8
+"ioverViewX"=dword:00000000
+"ioverViewY"=dword:00000000
+"xpageViewBead"=hex:00,00,00,00,00,00,00,00
+"ipageViewLayoutMode"=dword:00000002
+"ipageViewMaxVisPageNum"=dword:000000b7
+"ipageViewMinVisPageNum"=dword:000000b6
+"ipageViewPageNum"=dword:000000b6
+"bpageViewStartThread"=dword:00000000
+"ipageViewThreadIndex"=dword:ffffffff
+"ipageViewX"=dword:ffffff04
+"ipageViewY"=dword:0000021a
+"dpageViewZoom"="0.894211"
+"ipageViewZoomType"=dword:00000001
+"xwindowFrame"=hex:00,00,00,00,2a,00,00,00,40,06,00,00,92,04,00,00
+"bwindowMaximized"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef\cBottomView]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef\cLeftView]
+"sDockableHostViewName"=hex:42,6f,6f,6b,6d,61,72,6b,73,00
+"iOriginX"=dword:00000000
+"iOriginY"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef\cocgStates]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef\cTopLeftView]
+"bShowingPageGaps"=dword:00000001
+"xpageViewBead"=hex:00,00,00,00,00,00,00,00
+"ipageViewLayoutMode"=dword:00000002
+"ipageViewPageNum"=dword:000000b6
+"bpageViewStartThread"=dword:00000000
+"ipageViewThreadIndex"=dword:ffffffff
+"ipageViewX"=dword:ffffff04
+"ipageViewY"=dword:0000021a
+"dpageViewZoom"="0.894211"
+"ipageViewZoomType"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\RememberedViews\cNoCategoryFiles\c2\cViewDef\cTopLeftView\cocgStates]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\SDI]
+"iLastPortraitBottom"=dword:000003d4
+"iLastPortraitLeft"=dword:0000001f
+"iLastPortraitRight"=dword:00000589
+"iLastPortraitTop"=dword:00000000
+"bMaximizeNextDocument"=dword:00000000
+"iNullDocBottom"=dword:000003d4
+"iNullDocLeft"=dword:0000001f
+"bNullDocMaximized"=dword:00000000
+"iNullDocRight"=dword:00000589
+"iNullDocTop"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\Selection]
+"aDefaultSelect"="Select"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\9.0\UsageMeasurement]
+"iRemindCount"=dword:ffffffff
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\9.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\9.0\DiskCabs]
+"bCollab_OfflineDocs"=dword:00000000
+"bCollab_Workflows"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\9.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\9.0\Acrobat.com]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="4E2C78639F66377EF01083B697B0D720"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-01-24T22:04:50.2311Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\images\\menu.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-02-01T20:13:28.9201Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\images\\title.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-02-01T20:26:08.6883Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\images\\menu_bg2-1.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-02-01T22:32:31.3381Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\images\\menu_hover2-1.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-02-01T23:04:06.7991Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\images\\menu_hover4-1.gif"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-03-10T11:24:46.2961Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\css\\Sunny-theme\\images\\ui-bg_gloss-wave_45_817865_500x100.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2012-03-10T12:34:53.1363Z]
+@="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\css\\Sunny-theme\\images\\ui-bg_diagonals-medium_20_d34d17_40x40.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\55.0]
+"uiLanguageKey CS5.1"="en_US"
+"oldPaletteFontTypeKey CS5.1"=dword:00000000
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+"AppWindowPosition"="[1,1,1439,869]"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\55.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\pikulthong_p\\Documents\\My Dropbox\\_Work\\WebProj\\project\\cpets\\css\\Sunny-theme\\images\\"
