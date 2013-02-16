@@ -1,0 +1,82 @@
+state  State of MS (STATE)
+
+IDLE            Idle and attached
+BUSY            Busy and attached
+DET             Detached
+IDET            Implicit detached
+LIMITED         Idle and Limited Services due to partial roaming restriction 
+----------------------
+restr  Roaming restriction information (RESTR)
+
+This parameter indicates the restriction with the highest priority.
+The MS roaming restrictions from highest to lowest priority, are the following :
+
+NSUPPF          Roaming restricted for MS because of not supported feature
+NATROAM         Roaming restricted for MS because of national roaming restriction
+REGROAM         Roaming restricted for MS because of regional subscription 
+LOCROAM         Roaming restricted for MS because of local subscription  
+
+----------------------
+cnt             IMEI access counter value (CNT)
+                You can predict when MSC will fetch IMEI from EIR by
+                seeing IMEIACCESSLIMIT in Exchange Property
+                MGEPP:ID=IMEIACCESSLIMIT;
+
+---------------------- 
+mstat  Mobile subscriber status (MSTAT)
+
+NOTREG  Mobile subscriber not registered in this Mobile services Switching Centre (MSC)/        
+        Visitor Location Register (VLR) Server
+REG     Mobile subscriber registered in this MSC/VLR Server
+ 
+----------------------
+bs  Basic service Data (BASIC SERVICE DATA)
+
+AUXTPHY         Auxiliary telephony
+DCDA300         Data circuit, duplex, asynchronous, 300 bits
+DCDA1200/75     Data circuit, duplex, asynchronous, 1200/75 bits 
+DCDA1200        Data circuit, duplex, asynchronous, 1200 bits
+DCDA2400        Data circuit, duplex, asynchronous, 2400 bits
+DCDA4800        Data circuit, duplex, asynchronous, 4800 bits
+DCDA9600        Data circuit, duplex, asynchronous, 9600 bits
+GENERAL-DCDA    Data circuit, duplex, asynchronous, all supported data rates
+DCDS1200        Data circuit, duplex, synchronous, 1200 bits
+DCDS2400        Data circuit, duplex, synchronous, 2400 bits
+DCDS4800        Data circuit, duplex, synchronous, 4800 bits
+DCDS9600        Data circuit, duplex, synchronous, 9600 bits
+GENERAL-DCDS    Data circuit, duplex, synchronous, all supported data rates
+FX              All facsimile transmission services
+AFX3            Automatic facsimile, Group three
+ALTSPFAX        Alternate speech and facsimile, Group three
+SMS             All SMSs
+SMSMO           SMS, mobile-originated, point-to-point 
+SMSMT           SMS, mobile-terminated, point-to-point 
+SPCH            All speech transmission services
+EMERG           Emergency call
+TPHY            Telephony
+ 
+----------------------------------
+ss  Supplementary service (SS)
+
+AOCC    Advice of charge (charging)
+AOCI    Advice of charge (information)
+BAOC    Barring of all outgoing calls
+BOIC    Barring of outgoing international calls
+BOIEXH  Barring of outgoing international calls, except those directed to Home Public Land      
+        Mobile Network (HPLMN) country
+CFB     Call forwarding on mobile subscriber busy
+CFNRC   Call forwarding on mobile subscriber not reachable 
+CFNRY   Call forwarding on no reply
+CFU     Call forwarding, unconditional
+CLIP-N  Calling line identification presentation, no override 
+CLIP-O  Calling line identification presentation, override 
+CLIR-P  Calling line identification restriction, permanent 
+CLIR-TA Calling line identification restriction, temporary mode, default allowed
+CLIR-TR Calling line identification restriction, temporary mode, default restricted
+COLP-N  Connected line identification presentation, no override 
+COLP-O  Connected line identification presentation, override 
+COLR    Connected line identification restriction
+CW      Call waiting
+ECT     Explicit Call Transfer
+EMLPP   Enhanced multi-level precedence and pre-emption
+HOLD    Call hold

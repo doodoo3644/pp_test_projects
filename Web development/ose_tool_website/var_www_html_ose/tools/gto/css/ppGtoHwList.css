@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { font-family: "tahoma"; 
+       font-size:small;  
+}
+p {
+        font-family: "tahoma"; 
+        font-size:small; 
+}
+
+h1 {
+        font-family: "tahoma"; 
+}
+
+h2 {
+        font-family: "tahoma"; 
+}
+
+h3 {
+        font-family: "tahoma"; 
+}
+
+.tabTr {
+	background-color: #CEE3F6;
+}
+
+.stripe1 {
+   background-color: #E0F2F7;  
+}
+
+.highlight {
+   background-color: #ffff00;
+}
+
+#datatab th {
+   background-color:  #7c7c7c;
+   color: #f9f9f9;
+   margin: 2px;
+   padding: 2px 3px 2px 3px;
+  border: #000 solid 1px;
+}
+
+
+
+#datatab tr td {
+   background-color: #c3c3c3;
+   padding: 1px 4px 1px 7px;;
+
+}
+
+.inner {
+   height: 19px; 
+   width: 6em;
+   font-size: 90%;
+}
+
+.inner span {
+   font-size: 79%;
+}
+

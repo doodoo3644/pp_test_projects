@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { font-family: "tahoma"; 
+       font-size:small;  
+}
+p {
+        font-family: "tahoma"; 
+        font-size:small; 
+}
+
+h1 {
+        font-family: "tahoma"; 
+}
+
+h2 {
+        font-family: "tahoma"; 
+}
+
+h3 {
+        font-family: "tahoma"; 
+}
+
+.tabTr {
+	background-color: #cccccc;
+}
+
+.stripe1 {
+   background-color: #dddddd;  
+}
+
+.highlight {
+   background-color: #ffff00;
+}
+
+table th {
+   background-color:  #999999;
+   margin: 2px;
+   padding: 2px 3px 2px 3px;
+   border: #000000 solid 1px;
+}
+
+
+
+table tr td {
+   padding: 1px 4px 1px 7px;;
+
+}
+
+.inner {
+   height: 19px; 
+   width: 6em;
+   font-size: 90%;
+}
+
+.inner span {
+   font-size: 79%;
+}
+

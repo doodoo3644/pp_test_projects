@@ -1,0 +1,81 @@
+body {
+	font-size: 62.5%;
+	font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana", "sans-serif";
+}
+
+
+table {
+	font-size: 1em;
+}
+
+#accordion-resizer {
+   margin-top: 10px;
+   padding: 5px 5px 8px 5px;
+   width: 950px;
+   height: 550px;
+}
+
+.ui-menu { 
+   position: absolute; 
+   width: 100px; 
+   z-index: 1;
+}
+
+#chosenQuery {
+   color: gray;
+}
+
+#msisdn { width: 300px; }
+.defaultTextActive { color: #a1a1a1; font-style: bold; }
+
+#result {
+   margin-left: 3px;
+}
+
+
+#dialog-modal {
+   display: none;
+}
+#dialog-modal pre {
+   font-size: 118%;
+   color: #666;
+}
+
+#dialog-modal pre b {
+   font-size: 106%;
+}
+
+
+#abb {
+   margin-top: 15px;
+   font-size: 120%;
+   }
+
+#abb a:active,
+#abb a:visited {
+   color: #2e6e9e;
+   font-style: bold;
+}
+
+#abb a:hover {
+   color: #1d5987;
+   font-style: bold;
+}
+
+hr {
+   width: 99%;
+   color: #d0e5f5;
+}
+
+h3, h4 {
+   margin: 0;
+   padding: 0;
+   //font-family: tahoma arial;
+   //font-size: 90%;
+}
+
+//#string {
+//  margin-top: 3px;
+//  font-size: 80%; 
+//  color: #226;
+//}
