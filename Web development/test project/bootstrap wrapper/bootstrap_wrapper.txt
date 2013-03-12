@@ -1,0 +1,26 @@
+For Prapas:
+-----------
+
+Is it possible to use Bootstrap without it taking over the entire style?
+
+
+
+------------
+You can also download bootstrap from here: Bootstrap source (http://github.com/twitter/bootstrap/zipball/master) and then enter the "less" directory and add a file called "bootstrap-custom.less" where you'll enter the following content:
+
+
+.bs-cnt {
+    @import "bootstrap.less";
+}
+
+
+"bs-cnt" for BootStrap-CoNTainer. You can make it longer if you want, but remember that it'll be pasted in a lot of places in the compiled CSS, so it's to save space in the end file.
+
+After you've done this, simple compile the bootstrap-custom.less file with your favourite less compiler (SimpLESS is pretty good if you're on Windows), and then you'll have a compiled bootstrap file that only works when you place a container element with the class of "bs-cnt".
+
+
+<div class="bs-cnt">
+    <button class="btn btn-success btn-large">This button will be affected by bootstrap</button>
+</div>
+<button class="btn btn-danger">This however; Won't</button>
+
